@@ -1,4 +1,4 @@
-package com.example.tp;
+package ex2.com.example.tp;
 
 public class Filiere {
     private static int compteur = 0;
